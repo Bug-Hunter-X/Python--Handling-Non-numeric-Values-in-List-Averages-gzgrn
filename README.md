@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python: handling non-numeric values in list calculations. The `bug.py` file shows the erroneous code, where a simple average calculation function fails if the input list contains non-numeric values.  The `bugSolution.py` file presents a solution that addresses this issue by using error handling and type checking.
